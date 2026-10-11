@@ -73,7 +73,7 @@ The circuit connects the ultrasonic sensor, servo motor, and two LEDs to the ESP
 
 Verify these connections against the final Wokwi `diagram.json` before submission.
 
-![Smart Dustbin Circuit Diagram](diagrams/circuit_diagram.png)
+![Smart Dustbin Circuit Diagram](Diagrams/circuit_diagram.png)
 
 **Hardware safety:** The HC-SR04 ECHO signal may be 5V. For a physical ESP32, use an appropriate voltage divider or level shifter to reduce the signal to a safe 3.3V level. A servo may require a separate suitable power supply with a common ground.
 
@@ -106,11 +106,11 @@ The project is simulated in Wokwi to verify the circuit and program behaviour. T
 
 ### Wokwi Simulation Output
 
-![Wokwi Smart Dustbin Output](screenshots/wokwi-output.png)
+![Wokwi Smart Dustbin Output](Screenshots/wokwi-output-1.png)
 
 ### ThingSpeak Monitoring Dashboard
 
-![ThingSpeak Smart Dustbin Dashboard](screenshots/thingspeak-dashboard.png)
+![ThingSpeak Smart Dustbin Dashboard](Screenshots/thingspeak-dashboard-1.png)
 
 The ThingSpeak channel contains three configured graphs:
 
