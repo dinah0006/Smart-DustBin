@@ -52,7 +52,7 @@ The system follows this basic architecture:
 
 The ultrasonic sensor supplies distance measurements to the ESP32. The ESP32 controls the servo and LEDs according to the program logic. It can also transmit monitoring data to ThingSpeak over Wi-Fi.
 
-![Smart Dustbin Block Diagram](diagrams/block_diagram.png)
+![Smart Dustbin Block Diagram](Diagrams/block_diagram.png)
 
 ## 7. Circuit Diagram and Pin Connections
 
