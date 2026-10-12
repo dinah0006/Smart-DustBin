@@ -160,16 +160,27 @@ These values depend on the data transmitted by the program. The fill-level graph
 
 ### Team Details
 
-- **Project title:** Smart Dustbin IoT Project
-- **Team member(s):** Add the name(s) required by your institution.
-- **Department/college:** Add your department and college details.
-- **Academic year:** Add the relevant academic year.
+**Project Title:** Smart Dustbin IoT Project
+
+**Team Members:**
+
+1. Dinah.V
+2. Deepika.M
+3. Sandhya.K
+4. Muvitha.M
+5. Srimathi.S
+
+**Department:** BCA B SEC
+
+**College:** St. Francis de Sales College (Autonomous)
+
+**Academic Year:** 2026–2027
 
 ### Project Links
 
-- **GitHub Repository:** https://github.com/dinah0006/Smart-DustBin
-- **Wokwi Simulation:** https://wokwi.com/projects/475963023334297601
-- **ThingSpeak Channel:** https://thingspeak.mathworks.com/channels/3506250
+- **GitHub Repository:** [Smart Dustbin IoT Project](https://github.com/dinah0006/Smart-DustBin)
+- **Wokwi Simulation:** [View Smart Dustbin Simulation](https://wokwi.com/projects/475963023334297601)
+- **ThingSpeak Channel:** [View ThingSpeak Dashboard](https://thingspeak.mathworks.com/channels/3506250)
 - **Project Report:** `report/smart-dustbin-report.pdf`
 
 ### References
